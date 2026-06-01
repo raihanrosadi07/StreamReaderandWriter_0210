@@ -1,0 +1,5 @@
+1|Laptop ASUS VivoBook 14|Laptop|5|8500000
+2|Smartphone Samsung A55|Smartphone|12|5200000
+3|Smart TV LG 43 Inch 4K|TV|3|6750000
+4|Headphone Sony WH-1000XM5|Audio|8|4900000
+5|Printer Canon PIXMA G2020|Printer|6|1350000
